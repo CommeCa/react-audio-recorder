@@ -39,7 +39,6 @@
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
-    "prepare": "tsc && vite build",
     "preview": "vite preview",
     "lint": "eslint src/**/*.ts{,x}",
     "lint:fix": "npm run lint -- --fix",
