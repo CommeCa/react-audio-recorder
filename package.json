@@ -34,14 +34,8 @@
   "files": [
     "dist"
   ],
-  "module": "./dist/react-audio-voice-recorder.es.js",
-  "types": "./dist/index.d.ts",
-  "exports": {
-    ".": {
-      "types": "./dist/index.d.ts",
-      "import": "./dist/react-audio-voice-recorder.es.js"
-    }
-  },
+  "module": "/dist/react-audio-voice-recorder.es.js",
+  "types": "/dist/index.d.ts",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
